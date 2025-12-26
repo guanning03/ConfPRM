@@ -8,7 +8,7 @@ import os
 
 # 加载模型和tokenizer
 print('正在加载模型...')
-model_name = '/home/zgn/.cache/hf_models/Qwen/Qwen2.5-Math-7B'
+model_name = '/data/user_data/jgai/cache/verl-checkpoints/dynamic-coeff-math-7b-1225/grpo_ap0.01_an0.01_seed0/global_step_500/actor/huggingface'
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -34,7 +34,7 @@ answer_suffix = """Thus, the final answer is:
 \\]"""
 
 # 读取数据
-with open('/home/zgn/conf_prm/1226_conf_analysis_aime/selected_samples.json', 'r', encoding='utf-8') as f:
+with open('./1226_conf_analysis_aime/selected_samples.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 def get_truncated_response(response, percentage):
@@ -170,13 +170,13 @@ for problem_data in tqdm(data, desc="Processing problems"):
     all_results.append(problem_result)
 
 # 保存结果
-output_json_path = '/home/zgn/conf_prm/1226_conf_analysis_aime/truncated_probs.json'
+output_json_path = './1226_conf_analysis_aime/truncated_probs.json'
 with open(output_json_path, 'w', encoding='utf-8') as f:
     json.dump(all_results, f, ensure_ascii=False, indent=2)
 print(f'结果已保存到: {output_json_path}')
 
 # 创建输出目录
-output_dir = '/home/zgn/conf_prm/1226_conf_analysis_aime/plots'
+output_dir = './1226_conf_analysis_aime/plots'
 os.makedirs(output_dir, exist_ok=True)
 
 # 画图
