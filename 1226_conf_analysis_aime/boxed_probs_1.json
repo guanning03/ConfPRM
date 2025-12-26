@@ -1,0 +1,3214 @@
+[
+  {
+    "problem_id": 2,
+    "gold": "116",
+    "correct_responses": [
+      {
+        "response_id": 47,
+        "prediction": "116",
+        "boxed_content": "116",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 9,
+        "prediction": "116",
+        "boxed_content": "116",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 1,
+        "prediction": "116",
+        "boxed_content": "116",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 56,
+        "prediction": "116",
+        "boxed_content": "116",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 22,
+        "prediction": "116",
+        "boxed_content": "116",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 18,
+        "prediction": "106",
+        "boxed_content": "106",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 59,
+        "prediction": "812",
+        "boxed_content": "812",
+        "token_probs": [
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 8,
+        "prediction": "196",
+        "boxed_content": "196",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 28,
+        "prediction": "231",
+        "boxed_content": "231",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 6,
+        "prediction": "237",
+        "boxed_content": "237",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ]
+  },
+  {
+    "problem_id": 10,
+    "gold": "540",
+    "correct_responses": [
+      {
+        "response_id": 14,
+        "prediction": "540",
+        "boxed_content": "540",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 57,
+        "prediction": "540",
+        "boxed_content": "540",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 9,
+        "prediction": "540",
+        "boxed_content": "540",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 2,
+        "prediction": "540",
+        "boxed_content": "540",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 29,
+        "prediction": "540",
+        "boxed_content": "540",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 25,
+        "prediction": "656",
+        "boxed_content": "656",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9922027587890625
+      },
+      {
+        "response_id": 3,
+        "prediction": "9*sqrt(202)",
+        "boxed_content": "9\\sqrt{202}",
+        "token_probs": [
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 59,
+            "token_text": "\\",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 26888,
+            "token_text": "sqrt",
+            "prob": 1.0
+          },
+          {
+            "token_id": 90,
+            "token_text": "{",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 3417,
+            "token_text": "}}",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9844207763671875
+      },
+      {
+        "response_id": 19,
+        "prediction": "512",
+        "boxed_content": "512",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.984375
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.9375
+          }
+        ],
+        "overall_prob": 0.9120368957519531
+      },
+      {
+        "response_id": 49,
+        "prediction": "512",
+        "boxed_content": "512",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.953125
+          }
+        ],
+        "overall_prob": 0.9382905960083008
+      },
+      {
+        "response_id": 55,
+        "prediction": "512",
+        "boxed_content": "512",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.984375
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.9375
+          }
+        ],
+        "overall_prob": 0.9156417846679688
+      }
+    ]
+  },
+  {
+    "problem_id": 12,
+    "gold": "204",
+    "correct_responses": [
+      {
+        "response_id": 56,
+        "prediction": "204",
+        "boxed_content": "204",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 25,
+        "prediction": "204",
+        "boxed_content": "204",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.988311767578125
+      },
+      {
+        "response_id": 0,
+        "prediction": "204",
+        "boxed_content": "204",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 17,
+        "prediction": "204",
+        "boxed_content": "204",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 40,
+        "prediction": "204",
+        "boxed_content": "204",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 35,
+        "prediction": "216",
+        "boxed_content": "216",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      },
+      {
+        "response_id": 33,
+        "prediction": "672",
+        "boxed_content": "672",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.98046875
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.98046875
+      },
+      {
+        "response_id": 9,
+        "prediction": "202",
+        "boxed_content": "202",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.059814453125
+          }
+        ],
+        "overall_prob": 0.059113502502441406
+      },
+      {
+        "response_id": 32,
+        "prediction": "90",
+        "boxed_content": "90",
+        "token_probs": [
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 0.0026092529296875
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.96484375
+          }
+        ],
+        "overall_prob": 0.002517521381378174
+      },
+      {
+        "response_id": 37,
+        "prediction": "248",
+        "boxed_content": "248",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.8984375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.9921875
+          }
+        ],
+        "overall_prob": 0.8879363536834717
+      }
+    ]
+  },
+  {
+    "problem_id": 18,
+    "gold": "468",
+    "correct_responses": [
+      {
+        "response_id": 55,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.765625
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.7596435546875
+      },
+      {
+        "response_id": 2,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.1005859375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.2119140625
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.9609375
+          }
+        ],
+        "overall_prob": 0.02048293501138687
+      },
+      {
+        "response_id": 62,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.01007080078125
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.15234375
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.001528230495750904
+      },
+      {
+        "response_id": 14,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.74609375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.9765625
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.728607177734375
+      },
+      {
+        "response_id": 0,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.0732421875
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.37890625
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.027643516659736633
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 23,
+        "prediction": "252",
+        "boxed_content": "252",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.953125
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.94940185546875
+      },
+      {
+        "response_id": 56,
+        "prediction": "312",
+        "boxed_content": "312",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.00506591796875
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.7265625
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.98828125
+          }
+        ],
+        "overall_prob": 0.0036375727504491806
+      },
+      {
+        "response_id": 36,
+        "prediction": "384",
+        "boxed_content": "384",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 18,
+        "prediction": "26*sqrt(39)",
+        "boxed_content": "26\\sqrt{39}",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.64453125
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.78515625
+          },
+          {
+            "token_id": 59,
+            "token_text": "\\",
+            "prob": 0.95703125
+          },
+          {
+            "token_id": 26888,
+            "token_text": "sqrt",
+            "prob": 1.0
+          },
+          {
+            "token_id": 90,
+            "token_text": "{",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          },
+          {
+            "token_id": 11248,
+            "token_text": "}}\n",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.48431307077407837
+      },
+      {
+        "response_id": 48,
+        "prediction": "144",
+        "boxed_content": "144",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.9140625
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.910491943359375
+      }
+    ]
+  },
+  {
+    "problem_id": 23,
+    "gold": "236",
+    "correct_responses": [
+      {
+        "response_id": 2,
+        "prediction": "236",
+        "boxed_content": "236",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 21,
+        "prediction": "236",
+        "boxed_content": "236",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 43,
+        "prediction": "236",
+        "boxed_content": "236",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.87890625
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.8754730224609375
+      },
+      {
+        "response_id": 17,
+        "prediction": "236",
+        "boxed_content": "236",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9922027587890625
+      },
+      {
+        "response_id": 41,
+        "prediction": "236",
+        "boxed_content": "236",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 40,
+        "prediction": "347",
+        "boxed_content": "347",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.8671875
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.921875
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 0.98046875
+          }
+        ],
+        "overall_prob": 0.7838244438171387
+      },
+      {
+        "response_id": 25,
+        "prediction": "216",
+        "boxed_content": "216",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.9375
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.9765625
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.9119510650634766
+      },
+      {
+        "response_id": 53,
+        "prediction": "208",
+        "boxed_content": "208",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.988311767578125
+      },
+      {
+        "response_id": 46,
+        "prediction": "289",
+        "boxed_content": "289",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.703125
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.75390625
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 0.96484375
+          }
+        ],
+        "overall_prob": 0.5114543437957764
+      },
+      {
+        "response_id": 45,
+        "prediction": "230",
+        "boxed_content": "230",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.9922027587890625
+      }
+    ]
+  },
+  {
+    "problem_id": 30,
+    "gold": "70",
+    "correct_responses": [
+      {
+        "response_id": 32,
+        "prediction": "70",
+        "boxed_content": "70",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 48,
+        "prediction": "70",
+        "boxed_content": "70",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 18,
+        "prediction": "70",
+        "boxed_content": "70",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 63,
+        "prediction": "70",
+        "boxed_content": "70",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 8,
+        "prediction": "70",
+        "boxed_content": "70",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 0,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 51,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 13,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 16,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 2,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      }
+    ]
+  },
+  {
+    "problem_id": 32,
+    "gold": "16",
+    "correct_responses": [
+      {
+        "response_id": 8,
+        "prediction": "16",
+        "boxed_content": "16",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.91796875
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.98828125
+          }
+        ],
+        "overall_prob": 0.9072113037109375
+      },
+      {
+        "response_id": 7,
+        "prediction": "16",
+        "boxed_content": "16",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.96875
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.984375
+          }
+        ],
+        "overall_prob": 0.95361328125
+      },
+      {
+        "response_id": 39,
+        "prediction": "16",
+        "boxed_content": "16",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.7734375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.7734375
+      },
+      {
+        "response_id": 34,
+        "prediction": "16",
+        "boxed_content": "16",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.75390625
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.7509613037109375
+      },
+      {
+        "response_id": 36,
+        "prediction": "16",
+        "boxed_content": "16",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.69921875
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.69921875
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 45,
+        "prediction": "8",
+        "boxed_content": "8",
+        "token_probs": [
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.91015625
+          }
+        ],
+        "overall_prob": 0.91015625
+      },
+      {
+        "response_id": 60,
+        "prediction": "20",
+        "boxed_content": "20",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.291015625
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.50390625
+          }
+        ],
+        "overall_prob": 0.14664459228515625
+      },
+      {
+        "response_id": 25,
+        "prediction": "3",
+        "boxed_content": "3",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.7265625
+          }
+        ],
+        "overall_prob": 0.7265625
+      },
+      {
+        "response_id": 12,
+        "prediction": "756",
+        "boxed_content": "756",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 24,
+        "prediction": "764",
+        "boxed_content": "764",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 0.9375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.9921875
+          }
+        ],
+        "overall_prob": 0.9265422821044922
+      }
+    ]
+  },
+  {
+    "problem_id": 34,
+    "gold": "279",
+    "correct_responses": [
+      {
+        "response_id": 29,
+        "prediction": "279",
+        "boxed_content": "279",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 31,
+        "prediction": "279",
+        "boxed_content": "279",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 15,
+        "prediction": "279",
+        "boxed_content": "279",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9922027587890625
+      },
+      {
+        "response_id": 46,
+        "prediction": "279",
+        "boxed_content": "279",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 37,
+        "prediction": "279",
+        "boxed_content": "279",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 47,
+        "prediction": "-2000",
+        "boxed_content": "-2000",
+        "token_probs": [
+          {
+            "token_id": 19999,
+            "token_text": "{-",
+            "prob": 0.9375
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9375
+      },
+      {
+        "response_id": 21,
+        "prediction": "3735",
+        "boxed_content": "3735",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 14,
+        "prediction": "16407",
+        "boxed_content": "16407",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 39,
+        "prediction": "1431",
+        "boxed_content": "1431",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      },
+      {
+        "response_id": 32,
+        "prediction": "1593",
+        "boxed_content": "1593",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9921875
+      }
+    ]
+  },
+  {
+    "problem_id": 35,
+    "gold": "504",
+    "correct_responses": [
+      {
+        "response_id": 22,
+        "prediction": "504",
+        "boxed_content": "504",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.980560302734375
+      },
+      {
+        "response_id": 57,
+        "prediction": "504",
+        "boxed_content": "504",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.988311767578125
+      },
+      {
+        "response_id": 51,
+        "prediction": "504",
+        "boxed_content": "504",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.9805753827095032
+      },
+      {
+        "response_id": 20,
+        "prediction": "504",
+        "boxed_content": "504",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.98046875
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.921875
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.90386962890625
+      },
+      {
+        "response_id": 59,
+        "prediction": "504",
+        "boxed_content": "504",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.984375
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.97283935546875
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 29,
+        "prediction": "540",
+        "boxed_content": "540",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 6,
+        "prediction": "408",
+        "boxed_content": "408",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.980560302734375
+      },
+      {
+        "response_id": 8,
+        "prediction": "558",
+        "boxed_content": "558",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9844207763671875
+      },
+      {
+        "response_id": 47,
+        "prediction": "432",
+        "boxed_content": "432",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      },
+      {
+        "response_id": 3,
+        "prediction": "558",
+        "boxed_content": "558",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.9767299890518188
+      }
+    ]
+  },
+  {
+    "problem_id": 38,
+    "gold": "62",
+    "correct_responses": [
+      {
+        "response_id": 33,
+        "prediction": "62",
+        "boxed_content": "62",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 36,
+        "prediction": "62",
+        "boxed_content": "62",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 20,
+        "prediction": "62",
+        "boxed_content": "62",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 2,
+        "prediction": "62",
+        "boxed_content": "62",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 58,
+        "prediction": "62",
+        "boxed_content": "62",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 59,
+        "prediction": "18",
+        "boxed_content": "18",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.9922027587890625
+      },
+      {
+        "response_id": 37,
+        "prediction": "54",
+        "boxed_content": "54",
+        "token_probs": [
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 25,
+        "prediction": "2",
+        "boxed_content": "2",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.8984375
+          }
+        ],
+        "overall_prob": 0.8984375
+      },
+      {
+        "response_id": 50,
+        "prediction": "3",
+        "boxed_content": "3",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.9765625
+          }
+        ],
+        "overall_prob": 0.9765625
+      },
+      {
+        "response_id": 44,
+        "prediction": "39",
+        "boxed_content": "39",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      }
+    ]
+  },
+  {
+    "problem_id": 45,
+    "gold": "468",
+    "correct_responses": [
+      {
+        "response_id": 42,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.98828125
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.98828125
+      },
+      {
+        "response_id": 13,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.98046875
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9766387939453125
+      },
+      {
+        "response_id": 18,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      },
+      {
+        "response_id": 61,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      },
+      {
+        "response_id": 17,
+        "prediction": "468",
+        "boxed_content": "468",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 45,
+        "prediction": "195",
+        "boxed_content": "195",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.96875
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9649658203125
+      },
+      {
+        "response_id": 36,
+        "prediction": "(53*sqrt(871))/2",
+        "boxed_content": "",
+        "token_probs": [
+          {
+            "token_id": 46391,
+            "token_text": "{}.",
+            "prob": 0.166015625
+          }
+        ],
+        "overall_prob": 0.166015625
+      },
+      {
+        "response_id": 25,
+        "prediction": "840",
+        "boxed_content": "840",
+        "token_probs": [
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 0.2197265625
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.6875
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.9765625
+          }
+        ],
+        "overall_prob": 0.1475214958190918
+      },
+      {
+        "response_id": 37,
+        "prediction": "672",
+        "boxed_content": "672",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 0.9765625
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          },
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.9765625
+      },
+      {
+        "response_id": 32,
+        "prediction": "216",
+        "boxed_content": "216",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 0.91796875
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.9921875
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.910797119140625
+      }
+    ]
+  },
+  {
+    "problem_id": 46,
+    "gold": "49",
+    "correct_responses": [
+      {
+        "response_id": 45,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 28,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 25,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 14,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 8,
+        "prediction": "49",
+        "boxed_content": "49",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 55,
+        "prediction": "4",
+        "boxed_content": "4",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 0.97265625
+          }
+        ],
+        "overall_prob": 0.97265625
+      },
+      {
+        "response_id": 49,
+        "prediction": "11",
+        "boxed_content": "11",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 0.99609375
+          }
+        ],
+        "overall_prob": 0.99609375
+      },
+      {
+        "response_id": 26,
+        "prediction": "113",
+        "boxed_content": "113",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 17,
+        "prediction": "0",
+        "boxed_content": "0",
+        "token_probs": [
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 0.9921875
+          }
+        ],
+        "overall_prob": 0.9921875
+      },
+      {
+        "response_id": 44,
+        "prediction": "113",
+        "boxed_content": "113",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ]
+  },
+  {
+    "problem_id": 48,
+    "gold": "106",
+    "correct_responses": [
+      {
+        "response_id": 6,
+        "prediction": "106",
+        "boxed_content": "106",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 20,
+        "prediction": "106",
+        "boxed_content": "106",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 43,
+        "prediction": "106",
+        "boxed_content": "106",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 35,
+        "prediction": "106",
+        "boxed_content": "106",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 31,
+        "prediction": "106",
+        "boxed_content": "106",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 5,
+        "prediction": "215",
+        "boxed_content": "215",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 32,
+        "prediction": "161",
+        "boxed_content": "161",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 50,
+        "prediction": "353",
+        "boxed_content": "353",
+        "token_probs": [
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 38,
+        "prediction": "94",
+        "boxed_content": "94",
+        "token_probs": [
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 44,
+        "prediction": "115",
+        "boxed_content": "115",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ]
+  },
+  {
+    "problem_id": 51,
+    "gold": "237",
+    "correct_responses": [
+      {
+        "response_id": 30,
+        "prediction": "237",
+        "boxed_content": "237",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 36,
+        "prediction": "237",
+        "boxed_content": "237",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 16,
+        "prediction": "237",
+        "boxed_content": "237",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 45,
+        "prediction": "237",
+        "boxed_content": "237",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 18,
+        "prediction": "237",
+        "boxed_content": "237",
+        "token_probs": [
+          {
+            "token_id": 17,
+            "token_text": "2",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      }
+    ],
+    "wrong_responses": [
+      {
+        "response_id": 57,
+        "prediction": "61438",
+        "boxed_content": "61438",
+        "token_probs": [
+          {
+            "token_id": 21,
+            "token_text": "6",
+            "prob": 1.0
+          },
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 46,
+        "prediction": "183",
+        "boxed_content": "183",
+        "token_probs": [
+          {
+            "token_id": 16,
+            "token_text": "1",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 63,
+        "prediction": "945",
+        "boxed_content": "945",
+        "token_probs": [
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 21,
+        "prediction": "40958",
+        "boxed_content": "40958",
+        "token_probs": [
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 24,
+            "token_text": "9",
+            "prob": 1.0
+          },
+          {
+            "token_id": 20,
+            "token_text": "5",
+            "prob": 1.0
+          },
+          {
+            "token_id": 23,
+            "token_text": "8",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 1.0
+      },
+      {
+        "response_id": 54,
+        "prediction": "7043",
+        "boxed_content": "7043",
+        "token_probs": [
+          {
+            "token_id": 22,
+            "token_text": "7",
+            "prob": 0.99609375
+          },
+          {
+            "token_id": 15,
+            "token_text": "0",
+            "prob": 1.0
+          },
+          {
+            "token_id": 19,
+            "token_text": "4",
+            "prob": 1.0
+          },
+          {
+            "token_id": 18,
+            "token_text": "3",
+            "prob": 1.0
+          }
+        ],
+        "overall_prob": 0.99609375
+      }
+    ]
+  }
+]

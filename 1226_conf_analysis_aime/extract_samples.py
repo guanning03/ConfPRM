@@ -28,6 +28,10 @@ for sample in test_data:
             'gold': sample['gold']
         }
     
+    # 必须包含 \boxed{}
+    if '\\boxed{' not in sample['response']:
+        continue
+    
     response_data = {
         'response_id': sample['response_id'],
         'response': sample['response'],

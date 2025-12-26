@@ -1,0 +1,304 @@
+[
+  {
+    "problem_id": 2,
+    "gold": "116",
+    "boxed_content": "116",
+    "token_probs": [
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.314453125
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.1796875
+      },
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.0301513671875
+      }
+    ],
+    "overall_prob": 0.0017036516219377518
+  },
+  {
+    "problem_id": 10,
+    "gold": "540",
+    "boxed_content": "540",
+    "token_probs": [
+      {
+        "token_id": 20,
+        "token_text": "5",
+        "prob": 0.06494140625
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.15625
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.6640625
+      }
+    ],
+    "overall_prob": 0.00673830509185791
+  },
+  {
+    "problem_id": 12,
+    "gold": "204",
+    "boxed_content": "204",
+    "token_probs": [
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.1767578125
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.076171875
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.427734375
+      }
+    ],
+    "overall_prob": 0.005759004503488541
+  },
+  {
+    "problem_id": 18,
+    "gold": "468",
+    "boxed_content": "468",
+    "token_probs": [
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.0546875
+      },
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.099609375
+      },
+      {
+        "token_id": 23,
+        "token_text": "8",
+        "prob": 0.890625
+      }
+    ],
+    "overall_prob": 0.004851579666137695
+  },
+  {
+    "problem_id": 23,
+    "gold": "236",
+    "boxed_content": "236",
+    "token_probs": [
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.326171875
+      },
+      {
+        "token_id": 18,
+        "token_text": "3",
+        "prob": 0.1103515625
+      },
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.0859375
+      }
+    ],
+    "overall_prob": 0.0030931979417800903
+  },
+  {
+    "problem_id": 30,
+    "gold": "70",
+    "boxed_content": "70",
+    "token_probs": [
+      {
+        "token_id": 22,
+        "token_text": "7",
+        "prob": 0.034423828125
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.08837890625
+      }
+    ],
+    "overall_prob": 0.0030423402786254883
+  },
+  {
+    "problem_id": 32,
+    "gold": "16",
+    "boxed_content": "16",
+    "token_probs": [
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.25390625
+      },
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.09326171875
+      }
+    ],
+    "overall_prob": 0.023679733276367188
+  },
+  {
+    "problem_id": 34,
+    "gold": "279",
+    "boxed_content": "279",
+    "token_probs": [
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.189453125
+      },
+      {
+        "token_id": 22,
+        "token_text": "7",
+        "prob": 0.0279541015625
+      },
+      {
+        "token_id": 24,
+        "token_text": "9",
+        "prob": 0.05859375
+      }
+    ],
+    "overall_prob": 0.00031031202524900436
+  },
+  {
+    "problem_id": 35,
+    "gold": "504",
+    "boxed_content": "504",
+    "token_probs": [
+      {
+        "token_id": 20,
+        "token_text": "5",
+        "prob": 0.072265625
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.1728515625
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.023193359375
+      }
+    ],
+    "overall_prob": 0.0002897134982049465
+  },
+  {
+    "problem_id": 38,
+    "gold": "62",
+    "boxed_content": "62",
+    "token_probs": [
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.061767578125
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.0634765625
+      }
+    ],
+    "overall_prob": 0.003920793533325195
+  },
+  {
+    "problem_id": 45,
+    "gold": "468",
+    "boxed_content": "468",
+    "token_probs": [
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.12255859375
+      },
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.042236328125
+      },
+      {
+        "token_id": 23,
+        "token_text": "8",
+        "prob": 0.345703125
+      }
+    ],
+    "overall_prob": 0.0017895062919706106
+  },
+  {
+    "problem_id": 46,
+    "gold": "49",
+    "boxed_content": "49",
+    "token_probs": [
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.0927734375
+      },
+      {
+        "token_id": 24,
+        "token_text": "9",
+        "prob": 0.0771484375
+      }
+    ],
+    "overall_prob": 0.007157325744628906
+  },
+  {
+    "problem_id": 48,
+    "gold": "106",
+    "boxed_content": "106",
+    "token_probs": [
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.2734375
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.1884765625
+      },
+      {
+        "token_id": 21,
+        "token_text": "6",
+        "prob": 0.060791015625
+      }
+    ],
+    "overall_prob": 0.0031329598277807236
+  },
+  {
+    "problem_id": 51,
+    "gold": "237",
+    "boxed_content": "237",
+    "token_probs": [
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.1474609375
+      },
+      {
+        "token_id": 18,
+        "token_text": "3",
+        "prob": 0.0947265625
+      },
+      {
+        "token_id": 22,
+        "token_text": "7",
+        "prob": 0.047607421875
+      }
+    ],
+    "overall_prob": 0.0006650027353316545
+  }
+]
