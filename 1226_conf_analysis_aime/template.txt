@@ -1,0 +1,5 @@
+<|im_start|>system
+Please reason step by step and put the final answer in \\boxed{}. <|im_end|>
+<|im_start|>user
+[problem] Let's think step by step and output the final answer within \\boxed{}. <|im_end|>
+<|im_start|>assistant
